@@ -10,9 +10,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-World's First Blockchained PFP NFT with "On Music Video" and 250+ Traits!
+### World's First Blockchained PFP NFT with "On Music Video" and 250+ Traits!
 
-VIPSLAND<sup>TM</sup>, The Land of VIPs
+### VIPSLAND<sup>TM</sup>, The Land of VIPs
+
 These four root NFTs spawn the rest of the 188k+ Genesis NFT collection!
 
 <img src="https://github.com/vipsland/main/blob/main/moolahlisa.png" height=120 align=left>
