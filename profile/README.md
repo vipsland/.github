@@ -27,32 +27,30 @@ All succeeding NFTs are developed from the original root blocks using blockchain
 
 
 **How are the unique hash names and eDNA for the NFT calculated?**
+
 Each NFT’s name is a hash derived from 1024 (32×32) pixels with maximum of 216 colors each. The color codes are numbered 0 to 215, in the byte array of []byte{n1,n2,n3…,n1024} where n denotes the numeric value of color codes.
 
+<pre>
 var nft [1024]byte; 
 hashCode := fmt.Sprintf("%x",blake3(nft)[:8]);
+</pre>
+
 The hash code is generated using the first 8 bytes of the returned blake3 algorithm, with a possibility of 1.8446744 x 10^19 results, which is represented in hexadecimal value.
 
 Each of the membership pass on VIPSLAND NFT has such value written below which is represented in human readable 3x3pixel font.
 
 
-188,888
-
-NFTs in Genesis Collection
+**188,888** NFTs in Genesis Collection
 
 20,000 Privileged Membership NFTs +
 168,888 Normal Membership NFTs
 
 
-250+
-
-Unique Traits
+**250+** Unique Traits
 
 Meticulously designed and handcrafted from scratch with “on music video” traits.
 
 
-12 Months+
-
-In The Making
+**12 Months+** In The Making
 
 Since the pandemic of December 2021, from conception to development and production.
