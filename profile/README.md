@@ -16,10 +16,10 @@
 
 These four root NFTs spawn the rest of the 188k+ Genesis NFT collection!
 
-<img src="https://github.com/vipsland/main/blob/main/moolahlisa.png" height=220 align=left>
-<img src="https://github.com/vipsland/main/blob/main/jadelisa.png" height=220 align=left>
-<img src="https://github.com/vipsland/main/blob/main/shrilisa.png" height=220 align=left>
-<img src="https://github.com/vipsland/main/blob/main/amarelisa.png" height=220>
+<img src="https://github.com/vipsland/main/blob/main/moolahlisa.png" height=200 align=left>
+<img src="https://github.com/vipsland/main/blob/main/jadelisa.png" height=200 align=left>
+<img src="https://github.com/vipsland/main/blob/main/shrilisa.png" height=200 align=left>
+<img src="https://github.com/vipsland/main/blob/main/amarelisa.png" height=200>
 
 Website : https://vipsland.com
 
