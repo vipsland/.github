@@ -15,6 +15,8 @@ World's First Blockchained PFP NFT with "On Music Video" and 250+ Traits!
 VIPSLAND<sup>TM</sup>, The Land of VIPs
 These four root NFTs spawn the rest of the 188k+ Genesis NFT collection!
 
+![Moolah Lisa](https://0.m01d.com/x/vpslnd.bcz.com/c/u/_4/XK/FVeo-o/2XD9JdwPQTo3fS91wAtqrH0tm0JyBtuW8cQHEfmtX7k/1-1.png "Moolah Lisa")
+
 ![Moolah Lisa(https://0.m01d.com/x/vpslnd.bcz.com/c/u/_4/XK/FVeo-o/2XD9JdwPQTo3fS91wAtqrH0tm0JyBtuW8cQHEfmtX7k/1-1.png)]
 
 ![Jade Lisa(https://0.m01d.com/x/vpslnd.bcz.com/c/u/_4/XK/FVeo-o/SydRWBp-LeISOGqt66vA0txLn71NjOEyvfqLyOdTYMI/2-1.png)]
