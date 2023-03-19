@@ -26,7 +26,7 @@ Website : https://vipsland.com
 All succeeding NFTs are developed from the original root blocks using blockchain technologies.
 
 
-<img src="https://0.m01d.com/x/vpslnd.bcz.com/c/u/_4/XK/FVeo-o/rYjT4D4OZ_i2dENGQLtB6yBT5wC24NT_O42sJNiycn8/vipslandhashcodenft.webp">
+<img src="https://raw.githubusercontent.com/vipsland/main/main/vipslandhashcodenft.webp">
 
 **How are the unique hash names and eDNA for the NFT calculated?**
 
