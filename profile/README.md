@@ -26,6 +26,8 @@ Website : https://vipsland.com
 All succeeding NFTs are developed from the original root blocks using blockchain technologies.
 
 
+<img src="https://0.m01d.com/x/vpslnd.bcz.com/c/u/_4/XK/FVeo-o/rYjT4D4OZ_i2dENGQLtB6yBT5wC24NT_O42sJNiycn8/vipslandhashcodenft.webp">
+
 **How are the unique hash names and eDNA for the NFT calculated?**
 
 Each NFT’s name is a hash derived from 1024 (32×32) pixels with maximum of 216 colors each. The color codes are numbered 0 to 215, in the byte array of []byte{n1,n2,n3…,n1024} where n denotes the numeric value of color codes.
