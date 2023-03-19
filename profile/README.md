@@ -15,10 +15,10 @@ World's First Blockchained PFP NFT with "On Music Video" and 250+ Traits!
 VIPSLAND<sup>TM</sup>, The Land of VIPs
 These four root NFTs spawn the rest of the 188k+ Genesis NFT collection!
 
-<img src="https://github.com/vipsland/main/blob/main/moolahlisa.png" height=120>
-<img src="https://github.com/vipsland/main/blob/main/jadelisa.png" height=120>
-<img src="https://github.com/vipsland/main/blob/main/shrilisa.png" height=120>
-<img src="https://github.com/vipsland/main/blob/main/amarelisa.png" height=120>
+<img src="https://github.com/vipsland/main/blob/main/moolahlisa.png" height=120 align=left>
+<img src="https://github.com/vipsland/main/blob/main/jadelisa.png" height=120 align=left>
+<img src="https://github.com/vipsland/main/blob/main/shrilisa.png" height=120 align=left>
+<img src="https://github.com/vipsland/main/blob/main/amarelisa.png" height=120 align=left>
 
 Website : https://vipsland.com
 
