@@ -13,8 +13,6 @@
 
 Music Video Introduction : https://www.youtube.com/embed/cuIKnXVulj8
 
-
-
 ### World's First Blockchained PFP NFT with "On Music Video" and 250+ Traits!
 
 These four root NFTs spawn the rest of the 188k+ Genesis NFT collection!
