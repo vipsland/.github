@@ -11,7 +11,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cuIKnXVulj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Music Video Introduction : https://www.youtube.com/embed/cuIKnXVulj8
+
+
+
 ### World's First Blockchained PFP NFT with "On Music Video" and 250+ Traits!
 
 These four root NFTs spawn the rest of the 188k+ Genesis NFT collection!
